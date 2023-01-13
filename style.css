@@ -1,6 +1,5 @@
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    text-align: center;
 }
 
 
@@ -20,7 +19,21 @@ img.cafe{
     height: 200px;
 }
 
+div.conjunto_menu{
+    position: relative;
+   text-align: center;
+    left: -300px;
+}
 
+div.conjunto_nosotros{
+    position: relative;
+    text-align: center;
+    
+}
+
+div.conjunto_contacto{
+    top: 100px;
+}
 
 
 
