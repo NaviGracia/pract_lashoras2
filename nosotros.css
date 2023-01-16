@@ -1,0 +1,15 @@
+body{
+    background: radial-gradient(#e66465, #9198e5);
+    height: 100vh;
+}
+
+header{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+}
+
+article{
+    color: aqua;
+    font-size: 20px;
+}
