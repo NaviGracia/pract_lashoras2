@@ -1,0 +1,66 @@
+body{
+    height: 100vh;
+    background: radial-gradient(hsl(0, 0%, 100%),#86f396 );
+}
+
+header{
+    text-align: center;
+    color: rgb(255, 27, 27);
+    font-size: 50px;
+}
+
+iframe.maps{
+    height: 350px;
+    width: 500px;
+    margin-left: 15%;
+}
+
+p.ubicacion{
+    color: rgb(255, 27, 27);
+    font-size: 25px;
+    margin-left: 28%;
+}
+
+p.redes{
+    position: relative;
+    font-size: 25px;
+    color: rgb(255, 27, 27);
+    top: -60%;
+    margin-left: 70%;
+}
+
+p.telefono{
+    position: relative ;
+    text-align: center;
+    color: rgb(255, 27, 27);
+    font-size: 25px;
+    top: -62%;
+}
+
+img.phone{
+    position: relative;
+    height: 100px;
+    margin-left: 45%;
+    top: -65%;
+}
+
+img.instagram{
+    position: relative;
+    height: 125px;
+    margin-left: 60%;
+    top: -60%;
+}
+
+img.facebook{
+    position: relative;
+    height: 100px;
+    margin-left: 70%;
+    top: -60%;
+}
+
+img.twitter{
+    position: relative;
+    height: 125px;
+    margin-left: 81.5%;
+    top: -60%;
+}

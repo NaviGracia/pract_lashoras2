@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    background: radial-gradient(#9198e5,#e66465 );
+}
+
+header{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+p.menu_cafes{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+table{
+    color: white;
+    margin: auto;
+    font-size: 18px;
+}
+
+tr.principal{
+    font-size: 21px;
+}
+
+img.tes{
+    position: relative;
+    margin-left: 10%;
+    top: -45%;
+    height: 200px;
+}
+
+img.cafes{
+    position: relative;
+    height: 200px;
+    right: -35%;
+    top: -45%;
+}
+
+td.centrar{
+    text-align: center;
+}
