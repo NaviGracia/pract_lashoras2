@@ -27,8 +27,8 @@ tr.principal{
 
 img.tes{
     position: relative;
-    margin-left: 10%;
-    top: -45%;
+    margin-left: 15%;
+    top: -30%;
     height: 200px;
 }
 
@@ -36,7 +36,7 @@ img.cafes{
     position: relative;
     height: 200px;
     right: -35%;
-    top: -45%;
+    top: -30%;
 }
 
 td.centrar{

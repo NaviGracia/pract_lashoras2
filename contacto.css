@@ -18,15 +18,15 @@ iframe.maps{
 p.ubicacion{
     color: rgb(255, 27, 27);
     font-size: 25px;
-    margin-left: 28%;
+    margin-left: 25%;
 }
 
 p.redes{
     position: relative;
     font-size: 25px;
     color: rgb(255, 27, 27);
-    top: -60%;
-    margin-left: 70%;
+    top: -44.5%;
+    margin-left: 67%;
 }
 
 p.telefono{
@@ -34,33 +34,33 @@ p.telefono{
     text-align: center;
     color: rgb(255, 27, 27);
     font-size: 25px;
-    top: -62%;
+    top: -45%;
 }
 
 img.phone{
     position: relative;
     height: 100px;
-    margin-left: 45%;
-    top: -65%;
+    margin-left: 46%;
+    top: -45%;
 }
 
 img.instagram{
     position: relative;
     height: 125px;
-    margin-left: 60%;
-    top: -60%;
+    margin-left: 55%;
+    top: -45%;
 }
 
 img.facebook{
     position: relative;
     height: 100px;
-    margin-left: 70%;
-    top: -60%;
+    margin-left: 65%;
+    top: -44%;
 }
 
 img.twitter{
     position: relative;
     height: 125px;
-    margin-left: 81.5%;
-    top: -60%;
+    margin-left: 77%;
+    top: -43%;
 }
